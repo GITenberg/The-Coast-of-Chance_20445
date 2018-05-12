@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '9301'
     url: http://www.gutenberg.org/2009/agents/9301
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20445#The-Coast-of-Chance
 gutenberg_issued: '2007-01-25'
 gutenberg_type: Text
 identifiers:
