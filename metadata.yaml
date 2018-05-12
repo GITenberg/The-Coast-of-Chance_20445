@@ -1,0 +1,35 @@
+_repo: The-Coast-of-Chance_20445
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Underwood, Clarence F.
+    gutenberg_agent_id: '7139'
+    url: http://www.gutenberg.org/2009/agents/7139
+covers:
+- cover_type: archival
+  image_path: 20445-h/images/image_on_cover.jpg
+creator:
+  authors:
+  - agent_name: Chamberlain, Lucia
+    gutenberg_agent_id: '9302'
+    url: http://www.gutenberg.org/2009/agents/9302
+  - agent_name: Chamberlain, Esther
+    gutenberg_agent_id: '9301'
+    url: http://www.gutenberg.org/2009/agents/9301
+description: ''
+gutenberg_issued: '2007-01-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20445'
+  lccn: 08013722
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcc 'PS'
+- !lcsh 'Theft -- Fiction'
+- !lcsh 'Mystery fiction'
+title: The Coast of Chance
+url: http://www.gutenberg.org/ebooks/20445
